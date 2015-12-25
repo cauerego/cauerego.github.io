@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: New blog platform once again?
 layout: post
 ---
@@ -11,4 +11,4 @@ On top of this, GitHub rocks hard, is blazing fast even on mobile and Jeff, the 
 
 I was trying out Jekyll with prose.io and just now, very luckily, found this. Tiny press. Just awesome! If I can connect comments to muut, flarum or even discourse (not so sure about Disqus) I'll probably switch blog platform again pretty soon! :)
 
-*wrote on web mobile*
+*wrote mostly on web mobile*
