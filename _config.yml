@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://cauerego.github.io
+title: cregox
+email: caue@cregox.com
+author: Caue Rego
+description: My 2016 blog made in GitHub
+paginate: 6
+google_analytics: 
