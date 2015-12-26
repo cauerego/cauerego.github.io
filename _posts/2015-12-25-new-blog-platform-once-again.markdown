@@ -16,4 +16,6 @@ So, I was trying out Jekyll with prose.io and just now, very luckily, found this
 
 <small>Even while [missing a better template](https://github.com/tinypressco/tinypressco.github.io/issues/7)... :'(</small>
 
+Until then, I'll probably try using this instead of Google Keep. :P
+
 <small>*post made initially and basically on web mobile*</small>
