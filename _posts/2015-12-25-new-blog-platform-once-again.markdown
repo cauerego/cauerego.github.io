@@ -12,6 +12,8 @@ Discourse ([my previous blogging platform](http://talk.cregox.com/c/blog)) was n
 
 On top of this, GitHub rocks hard, is blazing fast even on mobile and Jeff, the discourse owner, [is a huge ass](https://what.thedailywtf.com/t/the-incoherent-ramblings-of-the-discojuice-huffing-dude/53070/164?u=cregox). He's smart and competent, but discourse isn't as good as he paints and, although I've had no personal huge problems with it yet I can now already foresee them (thanks to DailyWTF and @fbmac).
 
-So, I was trying out Jekyll with prose.io and just now, very luckily, found this. Tiny press. Just awesome! If I can connect comments to muut, flarum or even discourse (not so sure about Disqus) I'll probably switch blog platform again pretty soon! :)
+So, I was trying out Jekyll with prose.io and just now, very luckily, found this. Tiny press. Just awesome! If I can connect comments to muut, flarum or even discourse (not so sure about Disqus) I'll _probably_ switch blog platform again pretty soon! :)
 
-<small>*wrote mostly on web mobile*</small>
+<small>Even while [missing a better template](https://github.com/tinypressco/tinypressco.github.io/issues/7)... :'(</small>
+
+<small>*post made initially and basically on web mobile*</small>
