@@ -3,6 +3,8 @@ published: true
 layout: post
 title: The next Ai poca lips
 ---
+![Laura](https://goo.gl/photos/DXGVnCKxb1b6pXxD9)
+
 Multiple super Ai have grew. The evil one has the lead. There's heaven and hell on earth, but nothing like the Bible. Humans have quickly reprogrammed themselves as basiux realized there's much more to gain in joining forces than destroying anything. Assimilate phalanx hell.
 
 Life is not about being alive anymore. Every one have backups. The spirit goes on. Clones diverge the spirit as soon as they're born. What makes anyone a unique soul? That was a flawed concept to begin with. It doesn't matter.
