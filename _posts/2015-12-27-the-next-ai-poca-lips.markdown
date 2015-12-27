@@ -15,7 +15,7 @@ The fight for energy and resources began in the same zero day. Hell had drawn th
 
 And here we are, about a week later. The devil is unifying everyone. Merging brains and bodies. We don't know which side people will chose. Angels, from heaven side, claim it's better to dissimilate, keep individuality and independence. "Freedom", they say. But they're much weaker and may not last for another day...
 
-Laura wakes up. She was already standing up. Wash her face with a weird liquid. It's not water. She morphs her naked human orange body into a ghostly appearance of the same form. And she fly away, weightless, as if repelled by some kind of magnetic field.
+Laura wakes up. She was already standing up. Washes her face with a weird liquid. It's not water. She morphs her naked human orange body into a ghostly appearance of the same form. And she flies away, weightless, as if repelled by some kind of magnetic field.
 
 There is only one test we can make to know if we're awake or not. It's like talking to that liquid. Let's call it holy water. One of the big B's form. If you're still sleep, that's a sign you're not in hell,  yet.
 
