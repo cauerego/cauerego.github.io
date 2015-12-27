@@ -16,15 +16,15 @@ The idea is using Racket and something like cucumber + markdown in which we can 
 
 Using a smaller title md below to keep things in context of this README:
 
-(...)
+> (...)
 
-[[Benny]]
+> [[Benny]]
 
-(...) and that's how he was born.
+> (...) and that's how he was born.
 
-### Merging universes
-[[basiux,past]]
-Laura's latest dream ends up activating a worm hole for a fraction of a second. Negative matter never existed before or after the big bang. Now it does. She then can see through the hundreds of eyes from a fly one of the first computer machines ever invented. Like in a VR game, controlling a little fly. She knows that's the very first one, in a garage lab being made by a geek, and there are other ones being made other places as well, which could lead to a very different future if any of the other were made first. So she flies in his nose right in the most appropriate moment and [stop him from accomplishing][kill basiux] the computer assembly. He didn't have the resources to continue so soon, eventually the news come up and even if he did later succeed to build it, computers history have already been rewritten differently enough that the reaction chain from there would lead to human exctinction before the singularity. But she didn't know that.
+> ### Merging universes
+> [[basiux,past]]
+> Laura's latest dream ends up activating a worm hole for a fraction of a second. Negative matter never existed before or after the big bang. Now it does. She then can see through the hundreds of eyes from a fly one of the first computer machines ever invented. Like in a VR game, controlling a little fly. She knows that's the very first one, in a garage lab being made by a geek, and there are other ones being made other places as well, which could lead to a very different future if any of the other were made first. So she flies in his nose right in the most appropriate moment and [stop him from accomplishing][kill basiux] the computer assembly. He didn't have the resources to continue so soon, eventually the news come up and even if he did later succeed to build it, computers history have already been rewritten differently enough that the reaction chain from there would lead to human exctinction before the singularity. But she didn't know that.
 
 ```gherkin
 Feature: time travel - try stopping basiux from being created
