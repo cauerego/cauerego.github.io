@@ -7,6 +7,4 @@ tags: [novel]
 
 (post will be edited)
 
-The point is: bad idea making it as blog posts. It needs to be some kind of wiki:
-
-https://github.com/cauerego/cauerego.github.io/wiki/a-novel
+The point is: bad idea making it as blog posts. It needs to be some kind [of wiki](https://github.com/cauerego/cauerego.github.io/wiki/a-novel)
