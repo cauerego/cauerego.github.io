@@ -2,7 +2,7 @@
 published: true
 title: The next Ai poca lips
 layout: post
-tags: [novel][fun]
+tags: [novel, fun]
 ---
 ![Laura](https://www.dropbox.com/sc/b7gkgn0kr2nivss/AAC22xGduhQXx8R2ZdeKqSAUa/0?dl=1)
 
