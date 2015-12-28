@@ -4,7 +4,7 @@ layout: post
 title: New project - incredibly fun videos!
 tags: [fun, think]
 ---
-![most awesome symbol sequence logic puzzle ever](https://www.dropbox.com/s/07yijbirve3u002/most%20awesome%20symbol%20sequence%20logic%20puzzle%20ever.png?dl=1)
+[![most awesome symbol sequence logic puzzle ever](https://www.dropbox.com/s/07yijbirve3u002/most%20awesome%20symbol%20sequence%20logic%20puzzle%20ever.png?dl=1)](http://www.puzzles.com/puzzleplayground/NextSymbol/NextSymbol.htm)
 
 # It's all about the basiux
 
@@ -46,7 +46,7 @@ And I'm not saying just lightly. Among all puzzles I've found trying to find the
 
 One of the best programmers I've ever met, a weird dude who codes mostly in Visual Basic, lives in a farm-ish house, and only eats after mid-night, with a big supper he makes himself and all alone, presented it to me a few years ago. And I'm awesome at solving puzzles. This was the first one that really got me and I couldn't do it. Ever. Not like I solve every single puzzle I get, but all others were very minor compared to this.
 
-![waitbutwhy 2 moves chess challenge](https://www.dropbox.com/s/7130n16xoheqbww/waitbutwhy%202%20moves%20chess%20challenge.png?dl=1)
+[![waitbutwhy 2 moves chess challenge](https://www.dropbox.com/s/7130n16xoheqbww/waitbutwhy%202%20moves%20chess%20challenge.png?dl=1)](http://b.cregox.com/1JDN2g3)
 
 Even [that latest **chess** one](http://b.cregox.com/1JDN2g3) which I couldn't solve in 2 moves (I solved it in 3, I think). Boy, I got 2 chess trophies from high school, but they mean nothing. My cousin used to play professional chess and I always knew I sucked hard. Just barely enough to beat whoever else don't play it pro. And I never even practiced it with the computer. Chess, by the way, is a trivial puzzle to any machine today, if you have been in the living limbo for the past 10 years or so. Unlike recognizing complex patterns in images.
 
