@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: New project: incredibly fun videos!
+title: New project - incredibly fun videos!
 tags: [fun, think]
 ---
 ![most awesome symbol sequence logic puzzle ever](https://www.dropbox.com/s/07yijbirve3u002/most%20awesome%20symbol%20sequence%20logic%20puzzle%20ever.png?dl=1)
@@ -21,7 +21,7 @@ But I can still toy and sandbox with it! :)
 Here are the notes I were taking:
 
 > **most awesome symbol sequence logic puzzle ever**
-
+>
 > random youtube surfing -> wtf 28M views lame video dude https://www.youtube.com/user/sarijaradat/videos -> sleep -> few hours later, instagram -> 2 hours chess thinking later -> buffer  http://b.cregox.com/1JDN2g3 white turn. 2 moves to win. Comment section have plenty of very mild hints. Don't know chess? Take 1h uninterrupted -> think about making youtube for title -> google it -> images -> http://www.puzzles.com/puzzleplayground/NextSymbol/puzzle.gif -> http://www.puzzles.com/puzzleplayground/NextSymbol/NextSymbol.htm -> search
 https://www.quora.com/What-is-the-hardest-logic-puzzle-ever -> nothing on videos -> reminds me of mari-o and its amazing NN ->
 
@@ -31,9 +31,12 @@ There was this [typeform request for feedback](https://cregox.typeform.com/to/NF
 
 > ### Okay, this is actually just a request for feedback on a link
 www.patreon.com/cregox
-But since you probably won't click there, and even if you do you'll think it's too much text, I'll sum up what it says:
-"Please, gib-us money and we'll be able to gib-u lots of cool, fun and informative Ai stuffs thingies!"
-Update 2015-12-28: Do keep in mind that we could change it very radically to any other plan other than the current roadmap... We're always looking for alternatives, such as writing an awesome novel or making incredibly fun videos ( http://blog.cregox.com ).
+>
+> But since you probably won't click there, and even if you do you'll think it's too much text, I'll sum up what it says:
+>
+>"Please, gib-us money and we'll be able to gib-u lots of cool, fun and informative Ai stuffs thingies!"
+>
+>Update 2015-12-28: Do keep in mind that we could change it very radically to any other plan other than the current roadmap... We're always looking for alternatives, such as writing an awesome novel or making incredibly fun videos ( http://blog.cregox.com ).
 
 # To the point?
 
