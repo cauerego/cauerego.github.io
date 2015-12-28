@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: The new next Ai-poca-lips home
-tags: [novel][fun]
+tags: [novel, fun]
 ---
 
 *(this post shall be edited, eventually)*

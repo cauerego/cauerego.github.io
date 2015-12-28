@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: New project: incredibly fun videos!
-tags: [fun][think]
+tags: [fun, think]
 ---
 ![most awesome symbol sequence logic puzzle ever](https://www.dropbox.com/s/07yijbirve3u002/most%20awesome%20symbol%20sequence%20logic%20puzzle%20ever.png?dl=1)
 
