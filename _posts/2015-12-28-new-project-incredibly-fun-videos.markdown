@@ -12,7 +12,7 @@ tags: [fun][think]
 
 My wife is even already freaking tired of this topic! :D
 
-So, I were writing some notes on g keep because, well, unfortunately TinyPress is still not as quick as keep to take notes... And probably never will be. :(
+So, I were writing some notes on google keep because, well, unfortunately **TinyPress** is still not as quick to take notes... And may never be. :(
 
 I also learned my lesson from trying to write a book here...
 
