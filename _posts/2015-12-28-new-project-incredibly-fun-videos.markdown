@@ -1,7 +1,7 @@
 ---
 published: true
-title: new project: incredibly fun videos!
 layout: post
+title: New project: incredibly fun videos!
 ---
 ![most awesome symbol sequence logic puzzle ever](https://www.dropbox.com/s/07yijbirve3u002/most%20awesome%20symbol%20sequence%20logic%20puzzle%20ever.png?dl=1)
 
@@ -21,8 +21,8 @@ Here are the notes I were taking:
 
 > **most awesome symbol sequence logic puzzle ever**
 
-> random youtube surfing -> wtf 28M views lame video dude https://www.youtube.com/user/sarijaradat/videos -> sleep -> few hours later, instagram -> 2 hours chess thinking later -> buffer  http://b.cregox.com/1JDN2g3 white turn. 2 moves to win. Comment section have plenty of very mild hints. Don't know chess? Take 1h uninterrupted -> think about making youtube for title -> google it -> images -> http://www.puzzles.com/puzzleplayground/NextSymbol/puzzle.gif -> http://www.puzzles.com/puzzleplayground/NextSymbol/NextSymbol.htm -> search 
-https://www.quora.com/What-is-the-hardest-logic-puzzle-ever -> nothing on videos -> reminds me of mari-o and its amazing NN -> 
+> random youtube surfing -> wtf 28M views lame video dude https://www.youtube.com/user/sarijaradat/videos -> sleep -> few hours later, instagram -> 2 hours chess thinking later -> buffer  http://b.cregox.com/1JDN2g3 white turn. 2 moves to win. Comment section have plenty of very mild hints. Don't know chess? Take 1h uninterrupted -> think about making youtube for title -> google it -> images -> http://www.puzzles.com/puzzleplayground/NextSymbol/puzzle.gif -> http://www.puzzles.com/puzzleplayground/NextSymbol/NextSymbol.htm -> search
+https://www.quora.com/What-is-the-hardest-logic-puzzle-ever -> nothing on videos -> reminds me of mari-o and its amazing NN ->
 
 # The still unnamed logic puzzle
 
