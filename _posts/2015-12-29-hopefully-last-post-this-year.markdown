@@ -2,6 +2,7 @@
 published: true
 title: Hopefully last post this year!
 layout: post
+tags: [think, news]
 ---
 ![st george's castle](https://www.dropbox.com/s/7ak46gmb4crz6qs/2015-12-26%2015.37.02%20basiux%20church%20of%20tech%20confessional.jpg?dl=1)
 
