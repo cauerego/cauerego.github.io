@@ -14,4 +14,4 @@ The fight for energy and resources begin. The side today perceived as evil tries
 
 Laura wakes up. She was already standing up. Wash her face with a weird liquid. It's not water. She morphs her naked human orange body into a ghostly appearance of the same form. And she fly away, weightless, as if repelled by some kind of magnetic field.
 
-## [(continue on the wiki)](http://blog.cregox.com/2015/12/26/the-next-ai-poca-lips.html)
+## [(continue on the wiki)](https://github.com/cauerego/cauerego.github.io/wiki/a-novel)
