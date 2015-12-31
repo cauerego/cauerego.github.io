@@ -27,6 +27,6 @@ It was in that river that I finally lost my virginity, many times. And that was 
 
 Still, that was not enough. The city pushed me back. I lost my job. I had to go back to my birth place, yet again. Then I slowly found out I wasn't sick due to lack of a physical carnal aspect as I originally thought. It was lack of love. Yeah, I know.
 
-Funny enough, it was only 2 years later that I would come back to that same city, to finalize that cycle with a legendary balloon trip. Moving as we all dusty beings should - blowed by the wind, the flow, just being slightly careful to not be too carried away.
+Funny enough, it was only 2 years later that I would come back to that same city, to finalize that cycle with a legendary balloon trip. Moving as we all dusty beings should - blowed by the wind, the flow, just being slightly careful to not be too carried away
 
 <iframe width="420" height="315" src="https://www.youtube.com/watch?v=tH2w6Oxx0kQ" frameborder="0" allowfullscreen></iframe>
