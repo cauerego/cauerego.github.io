@@ -7,7 +7,7 @@ tags: [novel, fun]
 
 ![pira](https://www.dropbox.com/s/z5fwdgrn5bjqz5q/piracicaba_20070701_%20094%20cregox%20pira.jpg?dl=1)
 
-There she was, immaculate. At least to my eyes. Flowing freely, on an almost flat surface but still tilted enough to bring up that beautiful sound. What a relief from someone who was born and raised in a city with 2 dead rivers. What a relief to a boy who were never touched.
+There she was, immaculate. At least to my eyes. Flowing freely, on such a flat but still tilted enough floor to make that beautiful sound. What a relief from someone who was born and raised in a city with 2 dead rivers. To a boy who were never touched.
 
 The world have many wonderful places. From fjords on New Zealand, through the lonely Pisa tower in Italy and Dutch stroopwafels to a small unexpected hidden beach in Porto’s own city, in which people can freely enjoy the sunbath on their bare boned skins, there are not so many places where one can find oneself.
 
@@ -17,20 +17,18 @@ That was Piracicaba to me. A place filled with wonderful discoveries. Population
 
 ![balloon](https://www.dropbox.com/s/whb7k1y784n92bc/DSC05441%20balloon.JPG?dl=1)
 
-I was sick. Having been living mostly for jobs during almost 15 years, trying to escape by playing games or studying on the free time (they’re not too different things by the way). I still have always enjoyed life, but not since I was a kid have I felt the urge to live. Medical doctors said everything was fine with my health, except for that little node (not cancer) on your penis or hemorro-something. Oh, look, it’s gone! Be happy.
+I was sick. MD's said all good. Oh, look, it’s gone! Be happy.
 
 Don’t worry? How could I find someone to get close to me if my physiological parts that should be important to them were dysfunctional? Who’d want me? Why nobody approaches me to hug? Initially I moved there just for a job out of the messed up megalopole I was born in. Why was I still not able to simply do my job and keep on living my little and enjoyable life?
 
-That city came to my rescue.
-
-People there cared for each other. Sometimes too much, but it’s a tough balance. Truth is, I found later on, everyone cares and too many of us are afraid. I thought the only medicine I haven’t tried was a girlfriend so I’ve tried finding one, but I’ve failed. They found me, instead.
+I was afraid. And I thought the only medicine I haven’t tried was a girlfriend so I’ve tried finding one, but I’ve failed. They found me, instead. Rescued.
 
 It was in that river that I finally lost my virginity, many times. And that was one of the most important missing puzzle pieces for those previous 25 years. So worthwhile waiting for.
 
-Still, that was not enough. The city pushed me back. I lost my job. I had to go back to my birth place, yet again. Then I slowly found out I wasn’t sick due to lack of a physical carnal aspect as I originally thought. It was lack of love. Yeah, I know.
+Still, it wasn't enough. The city pushed me back. Lost my job. Had to go back to birth place, yet again. Slowly noticed I wasn’t sick due to lack of a carnal aspect as originally thought. It was lack of love. Yeah, I know.
 
 ![flow](https://www.dropbox.com/s/ix5sho1y5hs1sy4/piracicaba_20070701_%20023%20water%20flow.jpg?dl=1)
 
-Funny enough, it was only 2 years later that I would come back to that same city, to finalize that cycle with a legendary balloon trip. Moving as we all dusty beings should - blowed by the wind, the flow, just being slightly careful to not be too carried away
+Funny enough, it was only 2 years later that I would come back to that same city, to finalize that cycle with a legendary balloon trip. Moving as we all dusty beings should - blowed by the wind, the flow, just being slightly careful to not be too carried away.
 
 > [play song](https://www.youtube.com/watch?v=tH2w6Oxx0kQ) <small>couldn’t fix jekyll’s x frame origins issue for embedding youtube here! :(</small>
