@@ -21,4 +21,6 @@ Don't worry? How could I find someone to get close to me if my parts that should
 
 That city came to my rescue.
 
-People there cared for each other. Sometimes too much, but it's a tough balance. Truth is, I found later on, everyone cares and too many of us are afraid. It was still in that river that I finally lost my virginity. And that was one of the most important missing puzzle pieces for those previous 25 years, so worthwhile waiting for. What a legendary trip.
+People there cared for each other. Sometimes too much, but it's a tough balance. Truth is, I found later on, everyone cares and too many of us are afraid. It was still in that river that I finally lost my virginity. And that was one of the most important missing puzzle pieces for those previous 25 years, so worthwhile waiting for.
+
+Funny enough, it was only 2 years later that I would come back to that same city, to finalize that cycle with a legendary balloon trip. They go just like we all should. Blowed by the wind.
