@@ -5,6 +5,8 @@ title: One night, near Piracicaba’s river
 tags: [novel, fun]
 ---
 
+> <small>This story [was written in less than 1 hour](https://github.com/cauerego/cauerego.github.io/blob/master/_posts/2015-12-31-cregox-navigator-around-the-world.markdown) to a contest called [navigator around the world in 80 pages](http://navigatoraroundtheworld.com/). Took me, however, almost 4 hours to polish it up, select photos and go through their buggy website's submission system. ;P</small>
+
 ![pira](https://www.dropbox.com/s/z5fwdgrn5bjqz5q/piracicaba_20070701_%20094%20cregox%20pira.jpg?dl=1)
 
 There she was, immaculate. At least to my eyes. Flowing freely, on such a flat but still tilted enough floor to make that beautiful sound. What a relief from someone who was born and raised in a city with 2 dead rivers. To a boy who were never touched.
