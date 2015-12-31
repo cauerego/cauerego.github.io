@@ -17,10 +17,14 @@ That was Piracicaba to me. A place filled with wonderful discoveries. Population
 
 I was sick. Having been living almost just for jobs during almost 15 years, trying to escape by playing games or studying on the free time (they're not too different things by the way). I still have always enjoyed life, but not since I was a kid have I felt the urge to live. Medical doctors said everything was fine with my health, except for that little node (not cancer) on your penis or hemorro-something. Oh, look, it's gone! Be happy.
 
-Don't worry? How could I find someone to get close to me if my parts that should be important to them were disfunctional? Who'd want me? Why nobody approaches me to hug?
+Don't worry? How could I find someone to get close to me if my physiological parts that should be important to them were disfunctional? Who'd want me? Why nobody approaches me to hug? Initially I moved there just for a job out of the messed up megalopole I was born in. Why was I still not able to simply do my job and keep on living my little and enjoyable life?
 
 That city came to my rescue.
 
-People there cared for each other. Sometimes too much, but it's a tough balance. Truth is, I found later on, everyone cares and too many of us are afraid. It was still in that river that I finally lost my virginity. And that was one of the most important missing puzzle pieces for those previous 25 years, so worthwhile waiting for.
+People there cared for each other. Sometimes too much, but it's a tough balance. Truth is, I found later on, everyone cares and too many of us are afraid. I thought the only medicine I haven't tried was a girlfriend so I finding women, but I failed. They found me, instead.
+
+It was in that river that I finally lost my virginity, many times. And that was one of the most important missing puzzle pieces for those previous 25 years. So worthwhile waiting for.
+
+Still, that was not enough. The city pushed me back. I lost my job. I had to go back to my birth place, yet again. Then I slowly found out I wasn't sick due to lack of a physical carnal aspect as I thought. It was lack of love.
 
 Funny enough, it was only 2 years later that I would come back to that same city, to finalize that cycle with a legendary balloon trip. They go just like we all should. Blowed by the wind.
