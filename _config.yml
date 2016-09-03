@@ -1,10 +1,10 @@
 excerpt_separator: ""
-pygments: true
+highlighter: true
 markdown: kramdown
-url: http://cauerego.github.io
-title: cregox
+url: http://blog.cregox.com
+title: cregox blog
 email: caue@cregox.com
 author: Caue Rego
-description: Church of Tech B.A.S.I.U.X.'s quest to The Singularity
+description: B.A.S.I.U.X. - a quest to The Tech Singularity
 paginate: 6
 google_analytics: UA-4687862-13
