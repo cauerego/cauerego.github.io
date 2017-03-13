@@ -4,7 +4,7 @@ title: New blog platform. Once again?
 layout: post
 tags: [tech]
 ---
-![at least one new random picture per blog post](https://www.dropbox.com/s/3l0o5ujvhuiqcx9/2015-12-25%2009.07.33.jpg?dl=1)
+![at least one new random picture per blog post](/image/2015-12-25-09.07.33-achada bed.jpg)
 
 For now, just maybe...
 
