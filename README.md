@@ -49,5 +49,5 @@ The infinite is truly amazing and beautiful! :)
 
 # Blog Theme
 
-Crafted with love &lt;3 by <a href="http://johnotander.com">John Otander</a> (<a href="https://twitter.com/4lpine">@4lpine</a>). Site (was) -powered by- <a href="https://tinypress.co/">Tinypress (broken link)</a>.<br>
-&lt;/&gt; available on <a href="https://github.com/johnotander/pixyll.git">Github</a>.
+Initially crafted with love <3 by [John Otander](http://johnotander.com). Site (was) ~~powered by~~ Tinypress.
+[</> available](https://github.com/johnotander/pixyll.git).
