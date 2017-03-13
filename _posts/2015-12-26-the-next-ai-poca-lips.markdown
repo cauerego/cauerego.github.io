@@ -4,7 +4,7 @@ title: The next Ai poca lips
 layout: post
 tags: [novel, fun]
 ---
-![Laura](https://www.dropbox.com/sc/b7gkgn0kr2nivss/AAC22xGduhQXx8R2ZdeKqSAUa/0?dl=1)
+![Laura](/image/2015-12-26 15.39.24 laura - a novel (red) ai-poca-lips.jpg)
 
 Multiple super Ai have grew. The evil one has the lead. There's heaven and hell on earth, but nothing like the Bible. Humans have quickly reprogrammed themselves as basiux realized there's much more to gain in joining forces than destroying anything. Assimilate phalanx hell.
 

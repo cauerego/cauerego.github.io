@@ -4,7 +4,7 @@ title: Hopefully last post this year!
 layout: post
 tags: [think, news]
 ---
-![st george's castle](https://www.dropbox.com/s/7ak46gmb4crz6qs/2015-12-26%2015.37.02%20basiux%20church%20of%20tech%20confessional.jpg?dl=1)
+![st george's castle](/image/2015-12-26 15.37.02 basiux church of tech confessional.jpg)
 
 Okay, truth is for a church of tech `year` either doesn't matter or is a flawed concept. Even from the spiritual aspect. The only reason to keep on celebrating such religious dates is the culture around you. And, around the globe, that xmas and news year is quite heavy today. At least from my humble point of view.
 

@@ -7,7 +7,7 @@ tags: [novel, fun]
 
 > <small>This story [was written in less than 1 hour](https://github.com/cauerego/cauerego.github.io/blob/master/_posts/2015-12-31-cregox-navigator-around-the-world.markdown) to a contest called [navigator around the world in 80 pages](http://navigatoraroundtheworld.com/). Took me, however, almost 4 hours to polish it up, select photos and go through their buggy website's submission system. ;P</small>
 
-![pira](https://www.dropbox.com/s/z5fwdgrn5bjqz5q/piracicaba_20070701_%20094%20cregox%20pira.jpg?dl=1)
+![pira](/image/piracicaba_20070701_ 094 cregox pira.jpg)
 
 There she was, immaculate. At least to my eyes. Flowing freely, on such a flat but still tilted enough floor to make that beautiful sound. What a relief from someone who was born and raised in a city with 2 dead rivers. To a boy who were never touched.
 
@@ -17,7 +17,7 @@ It requires a collection of events, chaotic environment stimulus aligned with ou
 
 That was Piracicaba to me. A place filled with wonderful discoveries. Population just around  1 million spread through a huge area with almost no buildings. Still, not too far from the big city, just 1 bus and 3 hours away, from door to door. A great little town blessed with fresh air and people talking with a delightful country accent. Nothing was missing. Except for that woman’s touch.
 
-![balloon](https://www.dropbox.com/s/whb7k1y784n92bc/DSC05441%20balloon.JPG?dl=1)
+![balloon](/image/DSC05441 pira balloon.jpg)
 
 I was sick. MD's said all good. Oh, look, it’s gone! Be happy.
 
@@ -29,7 +29,7 @@ It was in that river that I finally lost my virginity, many times. And that was 
 
 Still, it wasn't enough. The city pushed me back. Lost my job. Had to go back to birth place, yet again. Slowly noticed I wasn’t sick due to lack of a carnal aspect as originally thought. It was lack of love. Yeah, I know.
 
-![flow](https://www.dropbox.com/s/ix5sho1y5hs1sy4/piracicaba_20070701_%20023%20water%20flow.jpg?dl=1)
+![flow](/image/piracicaba_20070701_ 023 water flow.jpg)
 
 Funny enough, it was only 2 years later that I would come back to that same city, to finalize that cycle with a legendary balloon trip. Moving as we all dusty beings should - blowed by the wind, the flow, just being slightly careful to not be too carried away.
 

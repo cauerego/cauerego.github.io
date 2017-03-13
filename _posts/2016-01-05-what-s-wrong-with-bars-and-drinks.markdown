@@ -5,7 +5,7 @@ layout: post
 ---
 ## *work in progress*
 
-![veronika by evilfrogo from deviant art](http://img15.deviantart.net/a7a2/i/2015/126/3/4/veronika_by_evilfrogo-d1619ja.jpg)
+![http://img15.deviantart.net/a7a2/i/2015/126/3/4/veronika_by_evilfrogo-d1619ja.jpg](/image/veronika_by_evilfrogo-d1619ja(via-deviantart.net).jpg)
 
 Veronika walks into a bar. Alone. The bar, mixed with random people, soft background music, dinner tables, seem to stop for a few seconds, staring at her normal entering. She's blonde, gorgeous and dressed to kill.
 
