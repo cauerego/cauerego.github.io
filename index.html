@@ -6,8 +6,8 @@ layout: default
 
   <div class="posts">
     {% for post in site.posts %}
-      <div class="post" id="{{ post.url }}">
-        <a href="#{{ post.url }}">
+      <div class="post" id="{{ post.hash }}">
+        <a href="#{{ post.hash }}">
           <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
         </a>
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
