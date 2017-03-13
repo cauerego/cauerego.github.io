@@ -3,6 +3,7 @@ published: true
 layout: post
 title: Making of the next Ai-poca-lips
 tags: [novel, fun]
+hash: DOo4p2W
 ---
 
 [Here's the making of origin](https://talk.cregox.com/t/to-openai-questions-from-an-arrogant-prick/7783/3). And there is the making of [story](https://github.com/cauerego/cauerego.github.io/wiki/a-novel-about-the-other-novel).

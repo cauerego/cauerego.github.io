@@ -2,6 +2,7 @@
 published: true
 title: What's wrong with bars and drinks?
 layout: post
+hash: KKGjLQJ
 ---
 ## *work in progress*
 
