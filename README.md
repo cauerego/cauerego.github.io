@@ -46,3 +46,8 @@ The text up there would throw an error because it wouldn't find a tag [a new uni
 By creating a new universe, she can always "choose" (no such thing as free will) to "wake up" and go back to a point before that creation.
 
 The infinite is truly amazing and beautiful! :)
+
+# Blog Theme
+
+Crafted with love &lt;3 by <a href="http://johnotander.com">John Otander</a> (<a href="https://twitter.com/4lpine">@4lpine</a>). Site (was) -powered by- <a href="https://tinypress.co/">Tinypress (broken link)</a>.<br>
+&lt;/&gt; available on <a href="https://github.com/johnotander/pixyll.git">Github</a>.
