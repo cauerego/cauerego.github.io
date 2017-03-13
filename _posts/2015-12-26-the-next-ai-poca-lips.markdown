@@ -4,6 +4,7 @@ title: The next Ai poca lips
 layout: post
 tags: [novel, fun]
 hash: veGvNrN
+permalink: the-next-ai-poca-lips-veGvNrN
 ---
 ![Laura](/image/2015-12-26 15.39.24 laura - a novel (red) ai-poca-lips.jpg)
 

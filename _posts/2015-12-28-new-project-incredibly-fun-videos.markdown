@@ -4,6 +4,7 @@ layout: post
 title: New project - incredibly fun videos!
 tags: [fun, think]
 hash: E2O2Q28
+permalink: new-project-incredibly-fun-videos-E2O2Q28
 ---
 [![most awesome symbol sequence logic puzzle ever](/image/most awesome symbol sequence logic puzzle ever.png)](http://www.puzzles.com/puzzleplayground/NextSymbol/NextSymbol.htm)
 

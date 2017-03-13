@@ -3,6 +3,7 @@ published: true
 title: What's wrong with bars and drinks?
 layout: post
 hash: KKGjLQJ
+permalink: what-s-wrong-with-bars-and-drinks-KKGjLQJ
 ---
 ## *work in progress*
 
