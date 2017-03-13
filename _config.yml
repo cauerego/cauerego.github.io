@@ -7,4 +7,3 @@ email: caue@cregox.com
 author: Caue Rego
 description: blogging, experimenting with jekyll and trying to write a bdd novel
 google_analytics: UA-4687862-13
-permalink: /:categories/:title-:year:month:day #-:hash  <-- fallback, while I can find no way to use this "hash" in the plugin
