@@ -36,7 +36,7 @@ www.patreon.com/cregox
 >
 >"Please, gib-us money and we'll be able to gib-u lots of cool, fun and informative Ai stuffs thingies!"
 >
->Update 2015-12-28: Do keep in mind that we could change it very radically to any other plan other than the current roadmap... We're always looking for alternatives, such as writing an awesome novel or making incredibly fun videos ( http://blog.cregox.com ).
+>Update 2015-12-28: Do keep in mind that we could change it very radically to any other plan other than the current roadmap... We're always looking for alternatives, such as writing an awesome novel or making incredibly fun videos ( https://blog.cregox.com ).
 
 # To the point?
 
@@ -50,4 +50,4 @@ One of the best programmers I've ever met, a weird dude who codes mostly in Visu
 
 Even [that latest **chess** one](http://b.cregox.com/1JDN2g3) which I couldn't solve in 2 moves (I solved it in 3, I think). Boy, I got 2 chess trophies from high school, but they mean nothing. My cousin used to play professional chess and I always knew I sucked hard. Just barely enough to beat whoever else don't play it pro. And I never even practiced it with the computer. Chess, by the way, is a trivial puzzle to any machine today, if you have been in the living limbo for the past 10 years or so. Unlike recognizing complex patterns in images.
 
-So, enough said for now. I'll probably edit this post later, after I make the video, if my current research (or [your feedback](http://talk.cregox.com) really leads me to do it... :)
+So, enough said for now. I'll probably edit this post later, after I make the video, if my current research (or [your feedback](https://talk.cregox.com) really leads me to do it... :)

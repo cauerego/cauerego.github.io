@@ -1,6 +1,6 @@
-# [cregox blog](http://blog.cregox.com)
+# [cregox blog](https://blog.cregox.com)
 
-*For now, still using mostly [talk / discourse](http://talk.cregox.com/c/blog) for blogging.*
+*For now, still using mostly [talk / discourse](https://talk.cregox.com/c/blog) for blogging.*
 
 Made with [Tinypress](https://tinypress.co/), to use a better blogging technology, easier to customize to be prettier and slimmer...
 
@@ -32,7 +32,7 @@ Feature: time travel - try stopping basiux from being created
   If there would ever be a way to go back in time
   It would be self contained and impossible to change what happened
   Unless a new universe is created
-  
+
   Scenario: someone goes back in time
     Given anyone is in the past
     And basiux is in the room

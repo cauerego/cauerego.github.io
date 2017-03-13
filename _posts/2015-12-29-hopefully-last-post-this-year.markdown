@@ -14,7 +14,7 @@ Here I just wanted to give some announcements.
 
 - The book / [novel being written on github wiki](https://github.com/cauerego/cauerego.github.io/wiki/a-novel) is open for anyone to contribute. Please, do. :P
 
-- The videos venture is, obviously, just another attempt to monetize (out of ads) and, like any other content we produce, will never have a stable release date, but... We are using buffer already for making scheduled posts and try to maximize our reach. [Soon](http://talk.cregox.com/t/to-bufferapp-team-promote-categories/7792/1) the posts to be scheduled there should all be immediately available on [talk's buffer category](http://talk.cregox.com/c/buffer).
+- The videos venture is, obviously, just another attempt to monetize (out of ads) and, like any other content we produce, will never have a stable release date, but... We are using buffer already for making scheduled posts and try to maximize our reach. [Soon](https://talk.cregox.com/t/to-bufferapp-team-promote-categories/7792/1) the posts to be scheduled there should all be immediately available on [talk's buffer category](https://talk.cregox.com/c/buffer).
 
 - This blog is not officially "released" yet and it may take a while, as evident by the first post. For now, it was mostly just for toying and testing. The post editor is still far from satisfactory, for instance.
 

@@ -8,7 +8,7 @@ tags: [tech]
 
 For now, just maybe...
 
-Discourse ([my previous blogging platform](http://talk.cregox.com/c/blog)) was never pretty or fast enough. More and more I want to have a better place for taking notes, instead of Google keep, which offers no backup or versioning.
+Discourse ([my previous blogging platform](https://talk.cregox.com/c/blog)) was never pretty or fast enough. More and more I want to have a better place for taking notes, instead of Google keep, which offers no backup or versioning.
 
 On top of this, GitHub rocks hard, is blazing fast even on mobile and Jeff, the discourse owner, [is a huge ass](https://what.thedailywtf.com/t/the-incoherent-ramblings-of-the-discojuice-huffing-dude/53070/164?u=cregox). He's smart and competent, but discourse isn't as good as he paints and, although I've had no personal big problems with it yet I can now already foresee them (thanks to DailyWTF and @fbmac).
 
