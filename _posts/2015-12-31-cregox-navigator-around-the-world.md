@@ -1,7 +1,7 @@
 ---
 published: true
-layout: post
 title: One night, near Piracicaba’s river
+layout: post
 tags: [novel, fun]
 hash: 1wNzmlR
 permalink: cregox-navigator-around-the-world-1wNzmlR

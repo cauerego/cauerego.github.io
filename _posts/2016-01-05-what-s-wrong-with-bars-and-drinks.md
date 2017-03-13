@@ -2,6 +2,7 @@
 published: true
 title: What's wrong with bars and drinks?
 layout: post
+tags: [offtopic]
 hash: KKGjLQJ
 permalink: what-s-wrong-with-bars-and-drinks-KKGjLQJ
 ---

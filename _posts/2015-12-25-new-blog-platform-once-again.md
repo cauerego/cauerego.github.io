@@ -2,7 +2,7 @@
 published: true
 title: New blog platform. Once again?
 layout: post
-tags: [tech]
+tags: [tech, announcement]
 hash: 0RMDmrZ
 permalink: new-blog-platform-once-again-0RMDmrZ
 ---

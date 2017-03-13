@@ -1,7 +1,7 @@
 ---
 published: true
-layout: post
 title: Making of the next Ai-poca-lips
+layout: post
 tags: [novel, fun]
 hash: DOo4p2W
 permalink: making-of-the-next-ai-poca-lips-DOo4p2W
