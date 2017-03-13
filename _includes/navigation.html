@@ -1,2 +1,16 @@
-<a href="https://cregox.com/contact/">contact</a>
-<a href="http://basiux.org/">B.A.S.I.U.X.</a>
+<div class="pagination clearfix mb1 mt4">
+  <div class="left">
+    {% if page.next %}
+      <a class="pagination-item" href="{{page.next.url}}">Newer</a>
+    {% else %}
+      <span class="pagination-item disabled">Newer</span>
+    {% endif %}
+  </div>
+  <div class="right">
+    {% if page.previous %}
+      <a class="pagination-item" href="{{page.previous.url}}">Older</a>
+    {% else %}
+      <span class="pagination-item disabled">Older</span>
+    {% endif %}
+  </div>
+</div>
