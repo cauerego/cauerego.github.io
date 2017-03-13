@@ -3,8 +3,8 @@ published: true
 title: What's wrong with bars and drinks?
 layout: post
 tags: [offtopic]
-hash: KKGjLQJ
-permalink: what-s-wrong-with-bars-and-drinks-KKGjLQJ
+hash: OAWQ3ND
+permalink: what-s-wrong-with-bars-and-drinks-OAWQ3ND
 ---
 ## *work in progress*
 

@@ -3,8 +3,8 @@ published: true
 title: Hopefully last post this year!
 layout: post
 tags: [think, news]
-hash: qDW74WQ
-permalink: hopefully-last-post-this-year-qDW74WQ
+hash: JrxQox1
+permalink: hopefully-last-post-this-year-JrxQox1
 ---
 ![st george's castle](/image/2015-12-26 15.37.02 basiux church of tech confessional.jpg)
 

@@ -3,8 +3,8 @@ published: true
 title: Making of the next Ai-poca-lips
 layout: post
 tags: [novel, fun]
-hash: DOo4p2W
-permalink: making-of-the-next-ai-poca-lips-DOo4p2W
+hash: Wz0N47G
+permalink: making-of-the-next-ai-poca-lips-Wz0N47G
 ---
 
 [Here's the making of origin](https://talk.cregox.com/t/to-openai-questions-from-an-arrogant-prick/7783/3). And there is the making of [story](https://github.com/cauerego/cauerego.github.io/wiki/a-novel-about-the-other-novel).

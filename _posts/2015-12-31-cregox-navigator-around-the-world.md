@@ -3,8 +3,8 @@ published: true
 title: One night, near Piracicaba’s river
 layout: post
 tags: [novel, fun]
-hash: 1wNzmlR
-permalink: cregox-navigator-around-the-world-1wNzmlR
+hash: wPEew0x
+permalink: cregox-navigator-around-the-world-wPEew0x
 ---
 
 > <small>This story [was written in less than 1 hour](https://github.com/cauerego/cauerego.github.io/blob/master/_posts/2015-12-31-cregox-navigator-around-the-world.markdown) to a contest called [navigator around the world in 80 pages](http://navigatoraroundtheworld.com/). Took me, however, almost 4 hours to polish it up, select photos and go through their buggy website's submission system. ;P</small>

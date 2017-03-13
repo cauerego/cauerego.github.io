@@ -3,8 +3,8 @@ published: true
 title: New blog platform. Once again?
 layout: post
 tags: [tech, announcement]
-hash: 0RMDmrZ
-permalink: new-blog-platform-once-again-0RMDmrZ
+hash: 3Kzqe0n
+permalink: new-blog-platform-once-again-3Kzqe0n
 ---
 ![at least one new random picture per blog post](/image/2015-12-25-09.07.33-achada bed.jpg)
 

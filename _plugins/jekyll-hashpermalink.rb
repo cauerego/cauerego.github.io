@@ -12,9 +12,9 @@ module Jekyll
                 if not item.data['permalink']
                     hash = item.data['hash']
                     if not hash # should we be able to overide the auto generated hash?
-                        salt = item.title
+                        salt = item.slug
                         hashids = Hashids.new salt
-                        hash = hashids.encode(item.date)
+                        hash = hashids.encode(item.date.to_time.to_i)
                         # in case we can't use hashids
                         #hash = Digest::MD5.hexdigest(salt + item.date.to_s)
                         item.data['hash'] = hash

@@ -3,8 +3,8 @@ published: true
 title: New project - incredibly fun videos!
 layout: post
 tags: [fun, think]
-hash: E2O2Q28
-permalink: new-project-incredibly-fun-videos-E2O2Q28
+hash: 29l9597
+permalink: new-project-incredibly-fun-videos-29l9597
 ---
 [![most awesome symbol sequence logic puzzle ever](/image/most awesome symbol sequence logic puzzle ever.png)](http://www.puzzles.com/puzzleplayground/NextSymbol/NextSymbol.htm)
 
