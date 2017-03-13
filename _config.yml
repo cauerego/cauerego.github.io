@@ -2,9 +2,9 @@ excerpt_separator: ""
 highlighter: true
 markdown: kramdown
 url: https://blog.cregox.com
-title: cregox blog
+title: cregox experimental blog
 email: caue@cregox.com
 author: Caue Rego
-description: B.A.S.I.U.X. - a quest to The Tech Singularity
+description: blogging, experimenting with jekyll and trying to write a bdd novel
 paginate: 6
 google_analytics: UA-4687862-13

@@ -1,12 +1,18 @@
-# [cregox blog](https://blog.cregox.com)
+[history of updates](https://github.com/cauerego/cauerego.github.io/commits/master/README.md) - click on the weird random numbers to see the "wikipedia" style comparison (a.k.a. diff)
 
-*For now, still using mostly [talk / discourse](https://talk.cregox.com/c/blog) for blogging.*
+# [cregox experimental blog](https://blog.cregox.com)
 
-Made with [Tinypress](https://tinypress.co/), to use a better blogging technology, easier to customize to be prettier and slimmer...
+## Actual blogging will soon be on [medium](https://medium.cregox.com)
 
-But it's still [missing some important features](https://github.com/tinypressco/tinypressco.github.io/issues/created_by/cauerego), such as social buttons (just for marketing) or easy forums integration (I would probably start with muut, right now). Disqus / commenting is just not engaging enough and creating a sense of community is at the core of blogging, imho. :)
+This was initially made with the apparently now defunct [Tinypress](http://tinypressco.github.io/), to use a better blogging technology, easier to customize, prettier and slimmer...
 
-So, this was to be my next blog... Then, on the 2nd post, I've suddenly started writing the novel. Finally, after considering making it into a deticated "creating the novel channel" I figured "nah, it will still be cregox's blogging channel, and the novel is a just one subset of it". If a community is to ever be built around it, they'll figure out how to move from there later on.
+It was [missing some important features](https://github.com/tinypressco/tinypressco.github.io/issues/created_by/cauerego)\*, such as social buttons or anything to allow for communication. While commenting is often not enough engaging people have no will to engage anyway. Creating a sense of community is at the core of blogging, imho, but there are pathways. It doesn't need to be all self contained. :)
+
+\* I can't remember what I've reported in that link, but this only highlights even more why, especially in an internet society, [I despise people's will to forget]().
+
+So, this was to be my "ultimate" next blog (back in dec 2015)... Then, on the 2nd post, I've suddenly started writing the novel. Finally, after considering making it into a dedicated "creating the novel channel" I figured "nah, it will still be cregox's blogging channel, and the novel is a just one subset of it". If a community is to ever be built around it, they'll figure out how to move from there later on.
+
+**and now** (as of Mar 2017), this (naturally) became just an experimentations blog. I'll still try, eventually, to make the BDD novel, but don't hold your breath. you see? I'm already even experimenting with writing style... Makes any sense? ;D
 
 # BDD Novel
 
