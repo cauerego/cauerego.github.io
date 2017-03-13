@@ -1,5 +1,5 @@
 excerpt_separator: ""
-highlighter: true
+highlighter: rougue
 markdown: kramdown
 url: https://blog.cregox.com
 title: cregox experimental blog
