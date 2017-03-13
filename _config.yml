@@ -1,5 +1,5 @@
 excerpt_separator: ""
-highlighter: rougue # no idea why, but https://sacha.me/articles/jekyll-rouge/
+highlighter: rouge # no idea why, but https://sacha.me/articles/jekyll-rouge/
 markdown: kramdown
 url: https://blog.cregox.com
 title: cregox experimental blog
