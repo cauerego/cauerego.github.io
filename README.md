@@ -2,7 +2,7 @@
 
 # [cregox experimental blog](https://blog.cregox.com)
 
-## Actual blogging will eventually be on [medium](https://medium.cregox.com)
+## Actual blogging is now on [medium](https://medium.cregox.com)
 
 This was initially made with the apparently now defunct [Tinypress](http://tinypressco.github.io/), to use a better blogging technology, easier to customize, prettier and slimmer...
 
